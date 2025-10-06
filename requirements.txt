@@ -1,0 +1,15 @@
+programming language is a versatile of low level to high level programming language in a purpose of programming language.
+In low level language which is hard to write and it is quite faster.
+the limitation of low level language cant perform the big level of task.
+it is hard to maintain it 
+HLPL:
+very easy to write the syntax 
+can perform  any kind of analysis
+it will be quite slow  compare to low level programming 
+
+compiler it will convert data into ml bit code and execute the code  and interpreter will convert the code line by line by line to execute the code.
+  
+
+
+python is an interpreter language
+
